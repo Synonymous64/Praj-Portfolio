@@ -6,6 +6,11 @@ import React, { useEffect, useRef } from "react";
 import { useInView, motion } from "framer-motion";
 
 function About() {
+  const ref = useRef(null);
+  const isInView = useInView(ref);
+  useEffect(() => {
+    console.log("Element is in view: ", isInView);
+  }, [isInView]);
   return (
     <motion.div
       className="about"
@@ -27,7 +32,7 @@ function About() {
           <p className="about-grid-info-text">
             Bonjour! My name is Prajwal, and I am passionate about creating
             digital content for the web. My interest in web development was
-            sparked in 2022 when I created my first project called TextUtils, a
+            sparked in 2021 when I created my first project called TextUtils, a
             text editor app built using React and Node.js.
           </p>
           <p className="about-grid-info-text">
