@@ -1,11 +1,12 @@
 {
+
   "name": "praj-portfolio",
   "description": "Personal Website V4",
   "version": "1.0.0",
   "author": "Prajwal Urkude <prajwalurkude007@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/Synonymous64/Praj-Portfolio/tree/master/praj-portfolio"
   },
   "keywords": [
     "gatsby"
