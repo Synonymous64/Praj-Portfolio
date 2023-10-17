@@ -108,10 +108,6 @@ const Footer = () => {
         <a href="https://github.com/Synonymous64/Praj-Portfolio/tree/master/praj-portfolio">
           <div>Designed &amp; Built by Prajwal Urkude</div>
         </a>
-        <br />
-        <a href="https://github.com/bchiang7/v4">
-          <div>Inspired from Brittany Chiang</div>
-        </a>
       </StyledCredit>
     </StyledFooter>
   );
