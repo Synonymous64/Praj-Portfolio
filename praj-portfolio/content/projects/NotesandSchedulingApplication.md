@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-Building a custom multisite compatible notes app to keep track of daily schedule with Google Oauth
+Building a custom multisite compatible notes app to keep track of daily schedule with Google Oauth.

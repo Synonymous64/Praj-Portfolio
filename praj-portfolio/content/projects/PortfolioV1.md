@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-Showcasing my skills and projects with a stunning portfolio that demonstrates your creativity, professionalism, and expertise
+Showcasing my skills and projects with a stunning portfolio that demonstrates your creativity, professionalism, and expertise.

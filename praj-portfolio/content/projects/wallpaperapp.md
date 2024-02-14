@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-A simple and brillant wallpaper app, that let you store, upload, remove, download and set wallpapers on your phone as well as desktop
+A simple and brillant wallpaper app, that let you store, upload, remove, download and set wallpapers on your phone as well as desktop.
